@@ -37,7 +37,7 @@ export default function App() {
             <Drawer.Screen name="Settings" component={SettingsScreen} />
             <Drawer.Screen name="Account" component={AccountScreen} />
           </Drawer.Navigator>
-        </NavigationContainer>
+    </NavigationContainer>
   );
 }
 
